@@ -8,3 +8,8 @@ Here you can find:
   I worked on this project alongside Alex Orlandi and Jiayi Qi.
 - [The data I have been working with](https://github.com/ANDREAaNAPPI/RAG-NLP-bigfoot-sighting/blob/main/BigFootStories.csv)
   You can also find the data on data.world, [here](https://data.world/timothyrenner/bfro-sightings-data/workspace/file?filename=bfro_reports_geocoded.csv)
+
+
+  
+![image](https://github.com/ANDREAaNAPPI/Werhouse-of-stuff/blob/main/BigFoot_area.jpg)
+
